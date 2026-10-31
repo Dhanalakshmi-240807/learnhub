@@ -1,4 +1,4 @@
 spring.datasource.url=jdbc:mysql://localhost:3306/learnhub
 spring.datasource.username=root
-spring.datasource.password=dhana
+spring.datasource.password= pwd
 server.error.include-message=always
